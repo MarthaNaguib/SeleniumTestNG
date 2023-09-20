@@ -1,0 +1,10 @@
+<data>
+    <testData id="success">
+        <username>tomsmith</username>
+        <password>SuperSecretPassword!</password>
+    </testData>
+    <testData id="failure">
+        <username>marthaXML</username>
+        <password>SuperSecretPassword!</password>
+    </testData>
+</data>
